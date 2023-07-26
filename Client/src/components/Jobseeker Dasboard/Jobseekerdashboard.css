@@ -1,0 +1,166 @@
+
+html,body{
+    font-family: sans-serif;
+}
+
+
+table, td,tr, th {
+    border-color: inherit;
+    border-style: solid;
+    border-collapse: separate;
+    border-width: 0;
+    border-bottom-width: 2px ;
+}
+
+table {
+    max-width: none;
+    caption-side: bottom;  
+    width: 100%;
+    
+    color: #212121;
+    vertical-align: top;
+    border-color: #f0f0f5;
+}
+
+td{
+    display: table-cell;
+    vertical-align: inherit;
+    border-bottom: 1px solid;
+    border-color: inherit;
+    border-style: solid;
+    border-width: 0;    
+}
+
+tbody{
+    border-color: inherit;
+    border-style: solid;
+    border-width: 0;
+}
+tr{
+    display: table-row;
+    vertical-align: inherit;
+    border-color: inherit;
+    border-style: solid;
+    border-width: 0;
+}
+
+
+
+.img_thumbnail{
+    max-width: 10rem;
+    padding-top: 18px;
+   position: absolute;
+   vertical-align: middle;
+   
+}
+
+.p-text{
+    font-family: sans-serif;
+    font-size: 15px;
+    padding-bottom: 0px;
+    color: gray;
+
+}
+
+
+.bp{
+    align-items: flex-end;
+    flex-direction: column;
+    display: flex;
+    box-sizing: border-box;
+}
+
+.h3-header {
+    font-family: sans-serif;
+    font-size:20px;
+    font-weight: 600;
+    color: #4CAF50;
+}
+
+.h3-header:hover{
+    color: #4CAF50;
+    text-decoration: underline;
+}  
+
+.prodes{
+    text-align: left;
+    padding-left: 130px;
+    
+}
+
+.btn-info {
+    font-family: sans-serif;
+    color: #ffffff;
+    background-color: #4CAF50 ;
+    border-color: #4CAF50 ;
+    box-shadow: none;
+}
+
+.btn-info:hover{
+    background-color: #4CAF50;
+    border-color: #4CAF50;  
+}
+
+.section-search input{
+    padding: 5px !important;
+    margin: 15px 0 0px 0 !important;
+    font-size: 18px !important;
+    width: 90% !important;
+    border: #f4f4f4 3px solid !important;
+  }
+
+  .button-search{
+      color: white;
+      background-color: #4CAF50;
+  }
+
+  .paginationBttns {
+    width: 100%;
+    list-style: none;
+    display: flex;     
+  }
+
+  .paginationBttns a {
+
+    color: grey;
+    
+    cursor: pointer; 
+  }
+  
+  .paginationBttns a:hover {
+    color: black;
+    background-color: #d3d3d3;
+  }
+  
+  .paginationActive a {  
+    background-color: #4CAF50;
+    color: white;
+  }
+  
+  .paginationDisabled a {
+    color: grey;
+  }
+  
+  .previousBttns{
+    text-decoration: none;
+    color: #4CAF50;
+  }
+
+  .nextBttns{
+text-decoration: none;
+
+color: #4CAF50;
+  }
+
+  .contentBox{
+    box-sizing: border-box;
+} 
+
+.button-apply{
+    background-color: #4CAF50;
+    color: white;
+}
+
+.color-head{
+    color: #4CAF50;
+}

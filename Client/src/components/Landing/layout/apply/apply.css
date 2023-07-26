@@ -1,0 +1,20 @@
+.section-book a {
+  margin: 20px 0px 0px 0px;
+}
+.search-textt {
+  text-align: center;
+  color: white;
+  font-family: sans-serif;
+  padding-bottom: 5px !important;
+}
+.btn-apply {
+  width: 20%;
+  color: white;
+  align-items: center;
+  justify-items: center;
+  align-content: center;
+  margin-left: 450px !important;
+}
+.material-icons {
+  padding-top: 5px !important;
+}

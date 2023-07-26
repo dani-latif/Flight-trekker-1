@@ -1,0 +1,82 @@
+.img_company {
+  max-width: 8rem;
+  padding-top: 5px;
+  position: absolute;
+  vertical-align: middle;
+}
+
+.ptext {
+  font-size: 20px;
+  padding-bottom: 0px;
+  font-weight: 500;
+}
+.h3-headerr {
+  font-size: 16px !important;
+  padding-bottom: 0px;
+  margin-bottom: 0px;
+  font-weight: 300;
+}
+
+.title-text {
+  font-size: 30px;
+  text-align: center !important;
+  margin-bottom: 30px;
+}
+
+.Job-title {
+  color: black;
+}
+
+.image-jobs {
+  padding-top: 5px;
+  padding-left: 5px;
+  max-width: 60px;
+  max-height: 60px;
+}
+
+.card-jobs {
+  display: flex;
+  width: 100%;
+  border-radius: 0px !important;
+}
+.gridd {
+  display: flex;
+  overflow: hidden;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+.css-46bh2p-MuiCardContent-root {
+  padding: 0px !important;
+  padding-left: 8px !important;
+}
+
+.contentBox {
+  display: flex;
+}
+
+hr {
+  width: 370px;
+}
+
+.title-jobs {
+  font-size: 12px !important;
+  font-weight: 500;
+  color: green;
+  text-decoration: none;
+}
+.title-jobs:hover {
+  color: green;
+  text-decoration: none;
+}
+
+.title-jobss {
+  font-size: 15px !important;
+  font-weight: 500 !important;
+}
+
+.see-more {
+  text-align: right;
+  margin-right: 30px;
+  margin-top: 20px;
+}

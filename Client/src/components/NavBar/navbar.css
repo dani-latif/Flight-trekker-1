@@ -1,0 +1,31 @@
+.logo {
+  
+  width: 200px;
+  height: 60px;
+}
+
+.css-hip9hq-MuiPaper-root-MuiAppBar-root {
+  background-color: #006869 !important;
+}
+
+.pi {
+  align-items: center;
+}
+.si {
+  margin-top: 0px;
+}
+.wi {
+  align-items: center;
+}
+
+.ft {
+  font-family: sans-serif;
+  font-size: small;
+  font-weight: 550;
+}
+
+li {
+}
+.btn-nav {
+  margin-left: 5px;
+}

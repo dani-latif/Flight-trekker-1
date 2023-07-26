@@ -1,0 +1,174 @@
+table,
+td,
+tr,
+th {
+  border-color: inherit;
+  border-style: solid;
+  border-collapse: separate;
+  border-width: 0;
+  border-bottom-width: 2px;
+}
+
+table {
+  max-width: none;
+  caption-side: bottom;
+  width: 100%;
+
+  color: #212121;
+  vertical-align: top;
+  border-color: #f0f0f5;
+}
+
+td {
+  display: table-cell;
+  vertical-align: inherit;
+  border-bottom: 1px solid;
+  border-color: inherit;
+  border-style: solid;
+  border-width: 0;
+}
+
+tbody {
+  border-color: inherit;
+  border-style: solid;
+  border-width: 0;
+}
+tr {
+  display: table-row;
+  vertical-align: inherit;
+  border-color: inherit;
+  border-style: solid;
+  border-width: 0;
+}
+
+.img_thumbnail {
+  max-width: 8rem;
+  position: absolute;
+  vertical-align: middle;
+}
+
+.p-text {
+  font-size: 15px;
+  padding-bottom: 0px;
+  color: gray;
+}
+
+.bp {
+  align-items: flex-end;
+  flex-direction: column;
+  display: flex;
+  box-sizing: border-box;
+}
+
+.h3-header {
+  font-size: 20px;
+  font-weight: 600;
+  color: #4caf50;
+}
+
+.h3-header:hover {
+  color: #4caf50;
+  text-decoration: underline;
+}
+
+.prodes {
+  text-align: left;
+  padding-left: 130px;
+}
+
+.btn-info {
+  color: #ffffff;
+  background-color: #4caf50;
+  border-color: #4caf50;
+  box-shadow: none;
+}
+
+.btn-info:hover {
+  background-color: #4caf50;
+  border-color: #4caf50;
+}
+
+.section-search input {
+  padding: 5px !important;
+  margin: 15px 0 0px 0 !important;
+  font-size: 18px !important;
+  width: 90% !important;
+  border: #f4f4f4 3px solid !important;
+}
+
+.button-search {
+  color: white;
+  background-color: #4caf50;
+  margin-top: 6px;
+}
+
+.button-search:hover {
+  color: white;
+  background-color: #4caf50;
+}
+
+.button-search:focus {
+  outline: #4caf50 !important;
+  box-shadow: none !important;
+}
+
+.paginationBttns {
+  margin-top: 40px;
+  width: 100%;
+  list-style: none;
+  display: flex;
+}
+
+.paginationBttns a {
+  padding: 10px;
+  color: grey;
+
+  cursor: pointer;
+}
+
+.paginationBttns a:hover {
+  color: black;
+  background-color: #d3d3d3;
+}
+
+.paginationActive a {
+  background-color: #4caf50;
+  color: white;
+}
+
+.paginationDisabled a {
+  color: grey;
+}
+
+.previousBttns {
+  text-decoration: none;
+  color: #4caf50;
+}
+
+.nextBttns {
+  text-decoration: none;
+
+  color: #4caf50;
+}
+
+.green-bg {
+  background-color: #4caf50;
+  color: white;
+}
+
+.Search-Remote {
+  font-size: 30px;
+  font-weight: 520;
+  color: #4caf50;
+}
+
+.remote-search-button {
+  background-color: #4caf50;
+  text-decoration: none;
+  color: white;
+}
+.remote-search-button:hover {
+  background-color: #4caf50;
+  text-decoration: none;
+  color: white;
+}

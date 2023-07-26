@@ -1,0 +1,20 @@
+.img-comapanies-logo {
+  padding-top: 0px;
+  padding-left: 5px;
+  max-width: 80px;
+  max-height: 80px;
+}
+
+.company-title {
+  padding-top: 10px;
+  font-family: sans-serif;
+  font-size: 30px;
+  text-align: center;
+  margin-bottom: 30px;
+  color: black;
+}
+
+.slider {
+  margin-left: 50px;
+  max-width: 94%;
+}

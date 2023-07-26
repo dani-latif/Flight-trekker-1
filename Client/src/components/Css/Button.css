@@ -1,0 +1,11 @@
+.css-mlohea-MuiButtonBase-root-MuiButton-root:hover {
+    background-color: green !important ; 
+}
+
+.red-text{
+    color: red;
+}
+
+.css-14s5rfu-MuiFormLabel-root-MuiInputLabel-root.Mui-focused {
+    border-color: green !important;
+}

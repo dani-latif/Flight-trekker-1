@@ -1,0 +1,52 @@
+.carousel {
+  max-height: 450px;
+}
+
+.im {
+  height: 450px;
+
+  object-fit: cover;
+  
+}
+
+.carousel-item::before{
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background: repeating-linear-gradient(
+    45deg,
+    transparent,
+    transparent 20px,
+    #465298 20px,
+    #465298 30px
+  );
+}
+
+.caption {
+  text-align: center;
+  margin-bottom: 150px;
+}
+
+.caption-title {
+  font-size: 60px;
+
+  -webkit-text-stroke: 1px black;
+}
+
+.green {
+  background-color: #ffff;
+  border: #ffff;
+}
+
+.green:hover {
+  background-color: #ffff;
+}
+
+.btn-1 {
+  text-align: left;
+}
+
+
+

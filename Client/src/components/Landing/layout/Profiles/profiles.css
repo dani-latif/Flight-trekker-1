@@ -1,0 +1,38 @@
+.darken-1 {
+  text-align: center;
+}
+
+.employer-title {
+  font-family: sans-serif;
+  font-size: 40px;
+  text-align: center;
+  margin-bottom: 30px;
+  color: black;
+}
+.title-text {
+  font-family: sans-serif;
+  font-size: 30px;
+  text-align: center !important;
+  margin-bottom: 30px;
+}
+
+.green-text {
+  color: #4caf50;
+}
+.image-employer {
+  padding-left: 45px;
+  padding-bottom: 20px;
+  max-width: 80%;
+  max-height: 80%;
+}
+
+.card-employer {
+  align-items: center;
+  justify-items: center;
+  text-align: center;
+  align-content: center;
+  padding: 10px;
+}
+.grid {
+  display: flex;
+}

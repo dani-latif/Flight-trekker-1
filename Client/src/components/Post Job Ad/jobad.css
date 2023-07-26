@@ -1,0 +1,9 @@
+.editorClassName {
+    height: 250px;
+    resize: vertical;
+    max-lines: 10;
+    border-radius: 1px;
+    border: 10px;
+    border: 'outlined';
+    border: black;
+}

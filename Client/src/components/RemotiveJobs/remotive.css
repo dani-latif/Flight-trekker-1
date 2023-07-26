@@ -1,0 +1,11 @@
+.center {
+  text-align: center;
+}
+.img_thumbnaill {
+  max-width: 7rem;
+  margin-top: 4px;
+  margin-left: 4px;
+  position: absolute;
+  vertical-align: middle;
+  align-items: center;
+}

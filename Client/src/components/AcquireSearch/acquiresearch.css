@@ -1,0 +1,21 @@
+.green-bg{
+    background-color: #4CAF50;
+    color: white;
+}
+
+
+.center{
+    align-items: center;
+    text-align: center;
+    color: white;
+}
+
+.Search-Acquire{
+    font-size: 30px;
+    font-weight:520;
+    color: #4CAF50;
+}
+
+.color-apply{
+    background-color:#4CAF50;
+}
